@@ -1251,7 +1251,7 @@ section.lazy-placeholder:after {
 .cid-rWZFosPZJN .card-box {
   z-index: 1;
   position: relative;
-  background-color: rgba(15, 118, 153, 0.4);
+  background-color: rgba(15, 118, 153, 0.7);
   height: 100%;
   width: 100%;
   pointer-events: none;
@@ -1301,7 +1301,7 @@ section.lazy-placeholder:after {
 .cid-rWZFWmKfyU .card-box {
   z-index: 1;
   position: relative;
-  background-color: rgba(15, 118, 153, 0.4);
+  background-color: rgba(15, 118, 153, 0.6);
   height: 100%;
   width: 100%;
   pointer-events: none;
