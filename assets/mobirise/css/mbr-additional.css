@@ -1232,6 +1232,18 @@ section.lazy-placeholder:after {
     padding-top: 1rem;
   }
 }
+.cid-rXJRnXu8gs {
+  background: #ffffff;
+}
+.cid-rXJRnXu8gs .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-rXJRnXu8gs .video-block {
+    width: 100% !important;
+  }
+}
 .cid-rWZEkRAKmf {
   padding-top: 60px;
   padding-bottom: 15px;
